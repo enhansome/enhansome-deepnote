@@ -51,9 +51,9 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 
 ## Other Awesome Lists
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 313,644 | 🐛 25 | 🌐 Python | 📅 2026-08-05
-* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,067 | 🐛 158 | 📅 2026-08-04
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,011 | 🐛 24 | 🌐 Python | 📅 2026-08-11
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 313,654 | 🐛 26 | 🌐 Python | 📅 2026-08-05
+* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,069 | 🐛 158 | 📅 2026-08-04
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,011 | 🐛 25 | 🌐 Python | 📅 2026-08-11
 * [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,806 | 🐛 8 | 📅 2026-08-10
 * [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,857 | 🐛 32 | 📅 2024-06-11
 * [pytudes](https://github.com/norvig/pytudes) ⭐ 24,397 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-07-19
@@ -61,7 +61,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 * [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,114 | 🐛 99 | 🌐 Python | 📅 2024-03-12
 * [lists](https://github.com/jnv/lists) ⭐ 11,413 | 🐛 20 | 📅 2026-03-23
 * [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) ⭐ 6,620 | 🐛 8 | 📅 2020-12-03
-* [awesome-r](https://github.com/qinwf/awesome-R) ⭐ 6,494 | 🐛 29 | 🌐 R | 📅 2025-09-18
+* [awesome-r](https://github.com/qinwf/awesome-R) ⭐ 6,495 | 🐛 29 | 🌐 R | 📅 2025-09-18
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,799 | 🐛 0 | 🌐 Python | 📅 2023-03-18
 * [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,377 | 🐛 37 | 📅 2024-01-26
 * [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) ⭐ 2,474 | 🐛 3 | 🌐 Python | 📅 2025-12-28

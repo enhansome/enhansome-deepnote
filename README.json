@@ -143,7 +143,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 313644
+            "stars": 313654
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78067
+            "stars": 78069
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6494
+            "stars": 6495
           }
         },
         {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:15:11.833Z",
+    "last_updated": "2026-08-13T05:53:30.248Z",
     "original_repository": "ramene/awesome-deepnote",
     "original_repository_sha": "c70295bbc4ce032cac72651b6f4083f341250a4c",
     "enhanced_repository": "enhansome/enhansome-deepnote",
