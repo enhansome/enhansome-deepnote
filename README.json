@@ -81,7 +81,7 @@
             "last_commit": "2024-06-25T20:42:58Z",
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28194
+            "stars": 28196
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 313654
+            "stars": 313856
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78069
+            "stars": 78089
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74011
+            "stars": 74027
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-08-10T14:39:24Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29806
+            "stars": 29814
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2024-06-11T04:49:29Z",
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28857
+            "stars": 28858
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2024-03-12T09:29:54Z",
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14114
+            "stars": 14115
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11413
+            "stars": 11414
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6495
+            "stars": 6496
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2024-01-26T12:36:48Z",
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4377
+            "stars": 4378
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2025-12-28T23:17:27Z",
             "owner": "benedekrozemberczki",
             "repo": "awesome-decision-tree-papers",
-            "stars": 2474
+            "stars": 2475
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2026-01-05T12:28:59Z",
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
-            "stars": 1823
+            "stars": 1822
           }
         },
         {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T05:53:30.248Z",
+    "last_updated": "2026-08-14T05:50:16.511Z",
     "original_repository": "ramene/awesome-deepnote",
     "original_repository_sha": "c70295bbc4ce032cac72651b6f4083f341250a4c",
     "enhanced_repository": "enhansome/enhansome-deepnote",
