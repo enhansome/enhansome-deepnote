@@ -67,7 +67,7 @@
             "last_commit": "2024-03-20T13:52:34Z",
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29307
+            "stars": 29306
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-06-25T20:42:58Z",
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28195
+            "stars": 28197
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314014
+            "stars": 314191
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78094
+            "stars": 78105
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74034
+            "stars": 74046
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-08-10T14:39:24Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29820
+            "stars": 29825
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2024-06-11T04:49:29Z",
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28857
+            "stars": 28860
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2024-03-12T09:29:54Z",
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14117
+            "stars": 14120
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11418
+            "stars": 11419
           }
         },
         {
@@ -269,7 +269,7 @@
             "last_commit": "2020-12-03T17:58:42Z",
             "owner": "src-d",
             "repo": "awesome-machine-learning-on-source-code",
-            "stars": 6621
+            "stars": 6623
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6495
+            "stars": 6496
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2025-12-28T23:17:27Z",
             "owner": "benedekrozemberczki",
             "repo": "awesome-decision-tree-papers",
-            "stars": 2474
+            "stars": 2473
           }
         },
         {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:51:16.428Z",
+    "last_updated": "2026-08-16T04:54:04.554Z",
     "original_repository": "ramene/awesome-deepnote",
     "original_repository_sha": "c70295bbc4ce032cac72651b6f4083f341250a4c",
     "enhanced_repository": "enhansome/enhansome-deepnote",
