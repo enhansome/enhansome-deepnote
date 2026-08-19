@@ -1,136 +1,147 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Deep Learning with TensorFlow 2 and Keras",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164266036,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-05-23T01:08:50Z",
+                "owner": "ageron",
+                "repo": "tf2_course",
+                "stars": 1909
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Customer Churn Prediction",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275835442,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-04-01T21:35:33Z",
+                "owner": "alfarias",
+                "repo": "customer-churn-prediction",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Detect Credit Card Fraud",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263735011,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-05-21T21:06:09Z",
+                "owner": "matthew-e-thomas",
+                "repo": "deeptnote-credit-card-fraud",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "scikit-learn, tensorflow, keras"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datascience IPython Notebooks",
+              "description": "by Donne Martin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29749635,
+                "language": "Python",
+                "last_commit": "2024-03-20T13:52:34Z",
+                "owner": "donnemartin",
+                "repo": "data-science-ipython-notebooks",
+                "stars": 29306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Probabilistic Programming and Bayesian Methods for Hackers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7607075,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-06-25T20:42:58Z",
+                "owner": "CamDavidsonPilon",
+                "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+                "stars": 28169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Mining the Social Web by Mikhail Klassen",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133873714,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-12-08T05:17:00Z",
+                "owner": "mikhailklassen",
+                "repo": "Mining-the-Social-Web-3rd-Edition",
+                "stars": 964
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Python for Probability, Statistics, and Machine Learning 2E",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184765105,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-09-21T15:42:40Z",
+                "owner": "unpingco",
+                "repo": "Python-for-Probability-Statistics-and-Machine-Learning-2E",
+                "stars": 378
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Maths: Form and Function with Python",
+              "description": "by James G. Hill",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189906881,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-20T06:18:52Z",
+                "owner": "James-G-Hill",
+                "repo": "Sympy-Companion-to-Mathematics-Form-and-Function",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "collections, books, journals"
+        }
+      ],
       "title": "General"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Deep Learning with TensorFlow 2 and Keras",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-05-23T01:08:50Z",
-            "owner": "ageron",
-            "repo": "tf2_course",
-            "stars": 1909
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Customer Churn Prediction",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-04-01T21:35:33Z",
-            "owner": "alfarias",
-            "repo": "customer-churn-prediction",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Detect Credit Card Fraud",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2020-05-21T21:06:09Z",
-            "owner": "matthew-e-thomas",
-            "repo": "deeptnote-credit-card-fraud",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "scikit-learn, tensorflow, keras"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Datascience IPython Notebooks",
-          "description": "by Donne Martin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-20T13:52:34Z",
-            "owner": "donnemartin",
-            "repo": "data-science-ipython-notebooks",
-            "stars": 29304
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Probabilistic Programming and Bayesian Methods for Hackers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-06-25T20:42:58Z",
-            "owner": "CamDavidsonPilon",
-            "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Mining the Social Web by Mikhail Klassen",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-12-08T05:17:00Z",
-            "owner": "mikhailklassen",
-            "repo": "Mining-the-Social-Web-3rd-Edition",
-            "stars": 964
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Python for Probability, Statistics, and Machine Learning 2E",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2021-09-21T15:42:40Z",
-            "owner": "unpingco",
-            "repo": "Python-for-Probability-Statistics-and-Machine-Learning-2E",
-            "stars": 378
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Maths: Form and Function with Python",
-          "description": "by James G. Hill",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-06-20T06:18:52Z",
-            "owner": "James-G-Hill",
-            "repo": "Sympy-Companion-to-Mathematics-Form-and-Function",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "collections, books, journals"
-    },
-    {
-      "description": "",
+      "description": "Other amazingly awesome lists can be found by searching: #awesome, #awesome-lists",
       "items": [
         {
           "node_type": "item",
@@ -139,11 +150,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21289110,
             "language": "Python",
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314746
+            "stars": 314851
           }
         },
         {
@@ -153,6 +165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26898879,
             "language": null,
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
@@ -167,11 +180,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21872392,
             "language": "Python",
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74066
+            "stars": 74070
           }
         },
         {
@@ -181,11 +195,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21515044,
             "language": null,
             "last_commit": "2026-08-18T10:27:04Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29838
+            "stars": 29839
           }
         },
         {
@@ -195,11 +210,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70431106,
             "language": null,
             "last_commit": "2024-06-11T04:49:29Z",
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28863
+            "stars": 28865
           }
         },
         {
@@ -209,11 +225,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83516498,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-19T03:40:14Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24397
+            "stars": 24398
           }
         },
         {
@@ -223,11 +240,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52677592,
             "language": null,
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17550
+            "stars": 17551
           }
         },
         {
@@ -237,6 +255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44104712,
             "language": "Python",
             "last_commit": "2024-03-12T09:29:54Z",
             "owner": "donnemartin",
@@ -251,6 +270,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14408715,
             "language": null,
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
@@ -265,6 +285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94894966,
             "language": null,
             "last_commit": "2020-12-03T17:58:42Z",
             "owner": "src-d",
@@ -279,6 +300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22003158,
             "language": "R",
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
@@ -293,6 +315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140943444,
             "language": "Python",
             "last_commit": "2023-03-18T12:10:08Z",
             "owner": "benedekrozemberczki",
@@ -307,11 +330,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39454666,
             "language": null,
             "last_commit": "2024-01-26T12:36:48Z",
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4379
+            "stars": 4380
           }
         },
         {
@@ -321,6 +345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186166778,
             "language": "Python",
             "last_commit": "2025-12-28T23:17:27Z",
             "owner": "benedekrozemberczki",
@@ -335,6 +360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188821801,
             "language": "Python",
             "last_commit": "2026-01-05T12:28:59Z",
             "owner": "benedekrozemberczki",
@@ -349,6 +375,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 71498068,
             "language": null,
             "last_commit": "2024-01-04T11:45:43Z",
             "owner": "JosPolfliet",
@@ -358,16 +385,12 @@
         }
       ],
       "title": "Other Awesome Lists"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:56:07.988Z",
+    "last_updated": "2026-08-19T12:26:28.212Z",
     "original_repository": "ramene/awesome-deepnote",
+    "original_repository_id": 302747117,
     "original_repository_sha": "c70295bbc4ce032cac72651b6f4083f341250a4c",
     "enhanced_repository": "enhansome/enhansome-deepnote",
     "enhanced_repository_description": null,
