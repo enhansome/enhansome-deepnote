@@ -69,7 +69,7 @@
                 "last_commit": "2024-03-20T13:52:34Z",
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29306
+                "stars": 29308
               }
             },
             {
@@ -155,7 +155,7 @@
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314851
+            "stars": 315007
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78143
+            "stars": 78152
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74070
+            "stars": 74077
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2026-08-18T10:27:04Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29839
+            "stars": 29843
           }
         },
         {
@@ -215,7 +215,7 @@
             "last_commit": "2024-06-11T04:49:29Z",
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28865
+            "stars": 28864
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-07-19T03:40:14Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24398
+            "stars": 24399
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2024-03-12T09:29:54Z",
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14126
+            "stars": 14127
           }
         },
         {
@@ -365,7 +365,7 @@
             "last_commit": "2026-01-05T12:28:59Z",
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
-            "stars": 1824
+            "stars": 1825
           }
         },
         {
@@ -388,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:26:28.212Z",
+    "last_updated": "2026-08-20T04:57:14.006Z",
     "original_repository": "ramene/awesome-deepnote",
     "original_repository_id": 302747117,
     "original_repository_sha": "c70295bbc4ce032cac72651b6f4083f341250a4c",
