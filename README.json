@@ -113,7 +113,7 @@
                 "last_commit": "2024-03-20T13:52:34Z",
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29315
+                "stars": 29316
               }
             },
             {
@@ -241,7 +241,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315907
+            "stars": 315924
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29858
+            "stars": 29859
           }
         },
         {
@@ -316,7 +316,7 @@
             "last_commit": "2026-08-24T23:45:38Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24403
+            "stars": 24402
           }
         },
         {
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:58:09.523Z",
+    "last_updated": "2026-08-25T06:38:35.100Z",
     "original_repository": "ramene/awesome-deepnote",
     "original_repository_id": 302747117,
     "original_repository_sha": "c70295bbc4ce032cac72651b6f4083f341250a4c",
