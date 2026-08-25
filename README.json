@@ -113,7 +113,7 @@
                 "last_commit": "2024-03-20T13:52:34Z",
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29312
+                "stars": 29315
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2024-06-25T20:42:58Z",
                 "owner": "CamDavidsonPilon",
                 "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-                "stars": 28170
+                "stars": 28171
               }
             },
             {
@@ -238,10 +238,10 @@
             "archived": false,
             "id": 21289110,
             "language": "Python",
-            "last_commit": "2026-08-24T06:42:58Z",
+            "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315802
+            "stars": 315907
           }
         },
         {
@@ -253,10 +253,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-23T23:52:17Z",
+            "last_commit": "2026-08-24T19:56:43Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78584
+            "stars": 78604
           }
         },
         {
@@ -268,10 +268,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-21T10:11:51Z",
+            "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74142
+            "stars": 74148
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29859
+            "stars": 29858
           }
         },
         {
@@ -301,7 +301,7 @@
             "last_commit": "2024-06-11T04:49:29Z",
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28867
+            "stars": 28866
           }
         },
         {
@@ -313,7 +313,7 @@
             "archived": false,
             "id": 83516498,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-07-19T03:40:14Z",
+            "last_commit": "2026-08-24T23:45:38Z",
             "owner": "norvig",
             "repo": "pytudes",
             "stars": 24403
@@ -331,7 +331,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17552
+            "stars": 17551
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2024-03-12T09:29:54Z",
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14127
+            "stars": 14128
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11437
+            "stars": 11439
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2020-12-03T17:58:42Z",
             "owner": "src-d",
             "repo": "awesome-machine-learning-on-source-code",
-            "stars": 6634
+            "stars": 6635
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6507
+            "stars": 6508
           }
         },
         {
@@ -421,7 +421,7 @@
             "last_commit": "2024-01-26T12:36:48Z",
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4387
+            "stars": 4388
           }
         },
         {
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:49:49.864Z",
+    "last_updated": "2026-08-25T04:58:09.523Z",
     "original_repository": "ramene/awesome-deepnote",
     "original_repository_id": 302747117,
     "original_repository_sha": "c70295bbc4ce032cac72651b6f4083f341250a4c",
