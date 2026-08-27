@@ -113,7 +113,7 @@
                 "last_commit": "2024-03-20T13:52:34Z",
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29319
+                "stars": 29327
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2022-12-08T05:17:00Z",
                 "owner": "mikhailklassen",
                 "repo": "Mining-the-Social-Web-3rd-Edition",
-                "stars": 964
+                "stars": 965
               }
             },
             {
@@ -241,7 +241,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316095
+            "stars": 316379
           }
         },
         {
@@ -253,10 +253,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-25T16:12:04Z",
+            "last_commit": "2026-08-26T21:15:40Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78635
+            "stars": 78670
           }
         },
         {
@@ -268,10 +268,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-24T19:57:48Z",
+            "last_commit": "2026-08-26T21:09:24Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74157
+            "stars": 74177
           }
         },
         {
@@ -283,10 +283,10 @@
             "archived": false,
             "id": 21515044,
             "language": null,
-            "last_commit": "2026-08-22T06:20:28Z",
+            "last_commit": "2026-08-26T17:06:22Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29868
+            "stars": 29876
           }
         },
         {
@@ -301,7 +301,7 @@
             "last_commit": "2024-06-11T04:49:29Z",
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28865
+            "stars": 28863
           }
         },
         {
@@ -313,10 +313,10 @@
             "archived": false,
             "id": 83516498,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T04:37:08Z",
+            "last_commit": "2026-08-26T05:51:10Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24402
+            "stars": 24403
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2024-03-12T09:29:54Z",
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14127
+            "stars": 14126
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11438
+            "stars": 11439
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2023-03-18T12:10:08Z",
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4799
+            "stars": 4800
           }
         },
         {
@@ -421,7 +421,7 @@
             "last_commit": "2024-01-26T12:36:48Z",
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4388
+            "stars": 4389
           }
         },
         {
@@ -474,9 +474,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:59:39.574Z",
-    "original_repository": "ramene/awesome-deepnote",
-    "original_repository_id": 302747117,
+    "last_updated": "2026-08-27T11:34:39.709Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 302747117,
+      "language": null,
+      "last_commit": "2026-06-15T04:15:50Z",
+      "owner": "ramene",
+      "repo": "awesome-deepnote",
+      "stars": 59
+    },
     "original_repository_sha": "c70295bbc4ce032cac72651b6f4083f341250a4c",
     "enhanced_repository": "enhansome/enhansome-deepnote",
     "enhanced_repository_description": null,
