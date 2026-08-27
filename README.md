@@ -51,15 +51,15 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 
 ## Other Awesome Lists
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,379 | 🐛 15 | 🌐 Python | 📅 2026-08-25
-* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,670 | 🐛 159 | 📅 2026-08-26
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,177 | 🐛 28 | 🌐 Python | 📅 2026-08-26
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,418 | 🐛 15 | 🌐 Python | 📅 2026-08-25
+* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,675 | 🐛 159 | 📅 2026-08-26
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,180 | 🐛 30 | 🌐 Python | 📅 2026-08-26
 * [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,876 | 🐛 8 | 📅 2026-08-26
 * [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,863 | 🐛 32 | 📅 2024-06-11
-* [pytudes](https://github.com/norvig/pytudes) ⭐ 24,403 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-08-26
+* [pytudes](https://github.com/norvig/pytudes) ⭐ 24,402 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-08-26
 * [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,550 | 🐛 34 | 📅 2026-02-08
 * [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,126 | 🐛 101 | 🌐 Python | 📅 2024-03-12
-* [lists](https://github.com/jnv/lists) ⭐ 11,439 | 🐛 22 | 📅 2026-03-23
+* [lists](https://github.com/jnv/lists) ⭐ 11,438 | 🐛 22 | 📅 2026-03-23
 * [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) ⭐ 6,634 | 🐛 8 | 📅 2020-12-03
 * [awesome-r](https://github.com/qinwf/awesome-R) ⭐ 6,507 | 🐛 30 | 🌐 R | 📅 2025-09-18
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,800 | 🐛 0 | 🌐 Python | 📅 2023-03-18

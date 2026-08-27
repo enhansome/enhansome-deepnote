@@ -241,7 +241,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316379
+            "stars": 316418
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2026-08-26T21:15:40Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78670
+            "stars": 78675
           }
         },
         {
@@ -271,7 +271,7 @@
             "last_commit": "2026-08-26T21:09:24Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74177
+            "stars": 74180
           }
         },
         {
@@ -316,7 +316,7 @@
             "last_commit": "2026-08-26T05:51:10Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24403
+            "stars": 24402
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11439
+            "stars": 11438
           }
         },
         {
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:39.709Z",
+    "last_updated": "2026-08-27T15:19:36.078Z",
     "original_repository_info": {
       "archived": false,
       "id": 302747117,
