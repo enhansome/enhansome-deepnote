@@ -33,7 +33,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 
 #### *collections, books, journals*
 
-* [Datascience IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,331 | 🐛 48 | 🌐 Python | 📅 2024-03-20 by [Donne Martin](https://github.com/donnemartin)
+* [Datascience IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,333 | 🐛 48 | 🌐 Python | 📅 2024-03-20 by [Donne Martin](https://github.com/donnemartin)
 * [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science\&url=https%3A%2F%2Fgithub.com%2FCamDavidsonPilon%2FProbabilistic-Programming-and-Bayesian-Methods-for-Hackers%2Fblob%2Fmaster%2FPrologue%2FPrologue.ipynb) [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,173 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25
 * [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science\&url=https%3A%2F%2Fgithub.com%2Fmikhailklassen%2FMining-the-Social-Web-3rd-Edition%2Fblob%2Fmaster%2Fnotebooks%2FChapter%25200%2520-%2520Preface.ipynb) [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) ⭐ 965 | 🐛 51 | 🌐 Jupyter Notebook | 📅 2022-12-08 by [Mikhail Klassen](https://github.com/mikhailklassen)
 * [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science\&url=https%3A%2F%2Fgithub.com%2Funpingco%2FPython-for-Probability-Statistics-and-Machine-Learning-2E%2Fblob%2Fmaster%2Fchapter%2Fmachine_learning%2Fintro.ipynb) [Python for Probability, Statistics, and Machine Learning 2E](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E) ⭐ 378 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-09-21
@@ -51,15 +51,15 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 
 ## Other Awesome Lists
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,813 | 🐛 19 | 🌐 Python | 📅 2026-08-25
-* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,694 | 🐛 159 | 📅 2026-08-28
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,202 | 🐛 29 | 🌐 Python | 📅 2026-08-27
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,887 | 🐛 8 | 📅 2026-08-27
-* [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,863 | 🐛 32 | 📅 2024-06-11
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,879 | 🐛 18 | 🌐 Python | 📅 2026-08-25
+* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,698 | 🐛 159 | 📅 2026-08-28
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,203 | 🐛 29 | 🌐 Python | 📅 2026-08-27
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,889 | 🐛 8 | 📅 2026-08-27
+* [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,862 | 🐛 32 | 📅 2024-06-11
 * [pytudes](https://github.com/norvig/pytudes) ⭐ 24,404 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-08-28
 * [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,549 | 🐛 34 | 📅 2026-02-08
 * [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,128 | 🐛 102 | 🌐 Python | 📅 2024-03-12
-* [lists](https://github.com/jnv/lists) ⭐ 11,441 | 🐛 22 | 📅 2026-03-23
+* [lists](https://github.com/jnv/lists) ⭐ 11,442 | 🐛 23 | 📅 2026-03-23
 * [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) ⭐ 6,634 | 🐛 8 | 📅 2020-12-03
 * [awesome-r](https://github.com/qinwf/awesome-R) ⭐ 6,507 | 🐛 30 | 🌐 R | 📅 2025-09-18
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,801 | 🐛 0 | 🌐 Python | 📅 2023-03-18
