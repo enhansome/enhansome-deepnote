@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual data exploration with Virginia's public COVID-19 cases dataset",
+                "homepage": null,
                 "id": 284102770,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-10-31T17:24:24Z",
+                "open_issues": 0,
                 "owner": "jammy-bot",
                 "repo": "va-covid-eda",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "covid-19",
+                  "datapane",
+                  "deepnote",
+                  "plotly",
+                  "population",
+                  "virginia"
+                ]
               },
               "first_seen": "2026-08-28T16:43:06.138Z"
             }
@@ -35,12 +47,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notebooks for my \"Deep Learning with TensorFlow 2 and Keras\" course",
+                "homepage": null,
                 "id": 164266036,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-23T01:08:50Z",
+                "open_issues": 8,
                 "owner": "ageron",
                 "repo": "tf2_course",
-                "stars": 1909
+                "stars": 1909,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:43:06.138Z"
             },
@@ -51,12 +68,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customer Churn Prediction using PyCaret.",
+                "homepage": null,
                 "id": 275835442,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-04-01T21:35:33Z",
+                "open_issues": 0,
                 "owner": "alfarias",
                 "repo": "customer-churn-prediction",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "customer-churn-prediction",
+                  "data-science",
+                  "deepnote",
+                  "pycaret",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:43:06.138Z"
             },
@@ -67,12 +95,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "playing with scikit-learn and Deepnote notebooks on a credit card fraud dataset",
+                "homepage": null,
                 "id": 263735011,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-05-21T21:06:09Z",
+                "open_issues": 0,
                 "owner": "matthew-e-thomas",
                 "repo": "deeptnote-credit-card-fraud",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:43:06.138Z"
             }
@@ -90,12 +123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Setup Guides/Templates for starting a Python Project on Deepnote or Locally",
+                "homepage": null,
                 "id": 297942120,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-04-07T15:23:10Z",
+                "open_issues": 0,
                 "owner": "sportsdatasolutions",
                 "repo": "python_project_template",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:43:06.138Z"
             }
@@ -113,12 +151,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+                "homepage": null,
                 "id": 29749635,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-20T13:52:34Z",
+                "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29330
+                "stars": 29331,
+                "topics": [
+                  "aws",
+                  "big-data",
+                  "caffe",
+                  "data-science",
+                  "deep-learning",
+                  "hadoop",
+                  "kaggle",
+                  "keras",
+                  "machine-learning",
+                  "mapreduce",
+                  "matplotlib",
+                  "numpy",
+                  "pandas",
+                  "python",
+                  "scikit-learn",
+                  "scipy",
+                  "spark",
+                  "tensorflow",
+                  "theano"
+                ]
               },
               "first_seen": "2026-08-28T16:43:06.138Z"
             },
@@ -129,12 +192,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "aka \"Bayesian Methods for Hackers\": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  ",
+                "homepage": "http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/",
                 "id": 7607075,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-06-25T20:42:58Z",
+                "open_issues": 203,
                 "owner": "CamDavidsonPilon",
                 "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-                "stars": 28173
+                "stars": 28173,
+                "topics": [
+                  "bayesian-methods",
+                  "data-science",
+                  "jupyter-notebook",
+                  "mathematical-analysis",
+                  "pymc",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T16:43:06.138Z"
             },
@@ -145,12 +220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official online compendium for Mining the Social Web, 3rd Edition (O'Reilly, 2018)",
+                "homepage": null,
                 "id": 133873714,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-08T05:17:00Z",
+                "open_issues": 51,
                 "owner": "mikhailklassen",
                 "repo": "Mining-the-Social-Web-3rd-Edition",
-                "stars": 965
+                "stars": 965,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:43:06.138Z"
             },
@@ -161,12 +241,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Second edition of Springer Book Python for Probability, Statistics, and Machine Learning ",
+                "homepage": null,
                 "id": 184765105,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-09-21T15:42:40Z",
+                "open_issues": 0,
                 "owner": "unpingco",
                 "repo": "Python-for-Probability-Statistics-and-Machine-Learning-2E",
-                "stars": 378
+                "stars": 378,
+                "topics": [
+                  "machine-learning",
+                  "probability-statistics",
+                  "python-modules",
+                  "springer-book-python"
+                ]
               },
               "first_seen": "2026-08-28T16:43:06.138Z"
             },
@@ -177,12 +267,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sympy companion to the book Maths: Form and Function",
+                "homepage": null,
                 "id": 189906881,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-06-20T06:18:52Z",
+                "open_issues": 9,
                 "owner": "James-G-Hill",
                 "repo": "Sympy-Companion-to-Mathematics-Form-and-Function",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "python",
+                  "symbolic-computation",
+                  "sympy"
+                ]
               },
               "first_seen": "2026-08-28T16:43:06.138Z"
             }
@@ -204,12 +303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run VSCode (codeserver) on Google Colab or Kaggle Notebooks",
+            "homepage": null,
             "id": 294074614,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-14T16:08:49Z",
+            "open_issues": 64,
             "owner": "abhishekkrthakur",
             "repo": "colabcode",
-            "stars": 2158
+            "stars": 2158,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         }
@@ -226,12 +330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository with a README example for setting up deepnote launch buttons",
+            "homepage": null,
             "id": 267589120,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-24T13:11:00Z",
+            "open_issues": 1,
             "owner": "SuNaden",
             "repo": "deepnote-launch-example",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         }
@@ -248,12 +357,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+            "homepage": "https://awesome-python.com/",
             "id": 21289110,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T04:08:40Z",
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316704
+            "stars": 316813,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "python",
+              "python-frameworks",
+              "python-libraries",
+              "python-tools"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -264,12 +385,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A topic-centric list of HQ open datasets.",
+            "homepage": "https://awesomedataworld.slack.com",
             "id": 26898879,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T16:22:22Z",
+            "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78690
+            "stars": 78694,
+            "topics": [
+              "aaron-swartz",
+              "awesome-public-datasets",
+              "datasets",
+              "opendata"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -280,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74197
+            "stars": 74202,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -296,12 +432,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+            "homepage": null,
             "id": 21515044,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T15:40:38Z",
+            "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29885
+            "stars": 29887,
+            "topics": [
+              "analytics",
+              "awesome-list",
+              "data-mining",
+              "data-science",
+              "data-scientists",
+              "data-visualization",
+              "deep-learning",
+              "hacktoberfest",
+              "machine-learning",
+              "science"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -312,12 +464,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete daily plan for studying to become a machine learning engineer.",
+            "homepage": "https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk",
             "id": 70431106,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2024-06-11T04:49:29Z",
+            "open_issues": 32,
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28863
+            "stars": 28863,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "software-engineer"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -328,12 +491,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+            "homepage": null,
             "id": 83516498,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-28T01:30:25Z",
+            "open_issues": 29,
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24403
+            "stars": 24404,
+            "topics": [
+              "demonstrate-skills",
+              "practice",
+              "programming",
+              "python",
+              "python-3"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -344,12 +518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
+            "homepage": null,
             "id": 52677592,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-02-08T17:13:47Z",
+            "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17550
+            "stars": 17549,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -360,12 +539,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
+            "homepage": null,
             "id": 44104712,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-12T09:29:54Z",
+            "open_issues": 102,
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14129
+            "stars": 14128,
+            "topics": [
+              "aws",
+              "aws-cli",
+              "aws-sdk",
+              "cloud",
+              "cloud-management",
+              "cloudformation",
+              "cloudwatch",
+              "dynamodb",
+              "ec2",
+              "ecs",
+              "elasticsearch",
+              "iam",
+              "kinesis",
+              "lambda",
+              "machine-learning",
+              "rds",
+              "redshift",
+              "route53",
+              "s3",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -376,12 +581,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
+            "homepage": null,
             "id": 14408715,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-23T20:19:22Z",
+            "open_issues": 22,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11441
+            "stars": 11441,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-lists",
+              "lists",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -392,12 +608,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
+            "homepage": null,
             "id": 94894966,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2020-12-03T17:58:42Z",
+            "open_issues": 8,
             "owner": "src-d",
             "repo": "awesome-machine-learning-on-source-code",
-            "stars": 6634
+            "stars": 6634,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "machine-learning",
+              "machine-learning-on-source-code"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -408,12 +634,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome R packages, frameworks and software.",
+            "homepage": null,
             "id": 22003158,
             "language": "R",
+            "license": null,
             "last_commit": "2025-09-18T16:46:19Z",
+            "open_issues": 30,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6506
+            "stars": 6507,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "data-analysis",
+              "data-science",
+              "list",
+              "r",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -424,12 +663,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of important graph embedding, classification and representation learning papers with implementations.",
+            "homepage": null,
             "id": 140943444,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2023-03-18T12:10:08Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4801
+            "stars": 4801,
+            "topics": [
+              "attention-mechanism",
+              "classification-algorithm",
+              "deep-graph-kernels",
+              "deepwalk",
+              "graph-attention-model",
+              "graph-attention-networks",
+              "graph-classification",
+              "graph-convolutional-networks",
+              "graph-embedding",
+              "graph-kernel",
+              "graph-kernels",
+              "graph-representation-learning",
+              "graph2vec",
+              "kernel-methods",
+              "netlsd",
+              "network-embedding",
+              "node-embedding",
+              "node2vec",
+              "structural-attention",
+              "weisfeiler-lehman"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -440,12 +705,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.",
+            "homepage": null,
             "id": 39454666,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-01-26T12:36:48Z",
+            "open_issues": 39,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4390
+            "stars": 4391,
+            "topics": [
+              "awesome-list",
+              "chart",
+              "data-visualization",
+              "dataviz",
+              "visualization",
+              "visualize-data"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -456,12 +733,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of research papers on decision, classification and regression trees with implementations.",
+            "homepage": null,
             "id": 186166778,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-12-28T23:17:27Z",
+            "open_issues": 3,
             "owner": "benedekrozemberczki",
             "repo": "awesome-decision-tree-papers",
-            "stars": 2473
+            "stars": 2473,
+            "topics": [
+              "cart",
+              "catboost",
+              "classification-model",
+              "classification-trees",
+              "classifier",
+              "decision-tree",
+              "decision-tree-classifier",
+              "decision-tree-learning",
+              "decision-tree-model",
+              "ensemble-learning",
+              "gradient-boosting",
+              "gradient-boosting-machine",
+              "lightgbm",
+              "machine-learning",
+              "machine-learning-research",
+              "random-forest",
+              "regression-tree",
+              "statistical-learning",
+              "tree-ensemble",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -472,12 +775,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of data mining papers about fraud detection.",
+            "homepage": null,
             "id": 188821801,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T12:28:59Z",
+            "open_issues": 2,
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
-            "stars": 1827
+            "stars": 1827,
+            "topics": [
+              "churn",
+              "classification",
+              "classifier",
+              "credit-card-fraud",
+              "credit-card-fraud-detection",
+              "credit-card-validation",
+              "credit-scoring",
+              "data-mining",
+              "data-science",
+              "deep-learning",
+              "fraud-checker",
+              "fraud-detection",
+              "fraud-explorer",
+              "fraud-management",
+              "fraud-prevention",
+              "gradient-boosting",
+              "graph-classification",
+              "link-prediction",
+              "logistic-regression",
+              "random-forest"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         },
@@ -488,12 +817,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A list of awesome and proven Artificial Intelligence use cases and applications",
+            "homepage": "https://www.faktion.com",
             "id": 71498068,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-04T11:45:43Z",
+            "open_issues": 1,
             "owner": "JosPolfliet",
             "repo": "awesome-ai-usecases",
-            "stars": 693
+            "stars": 693,
+            "topics": [
+              "data-science",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
         }
@@ -502,15 +839,37 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:43:06.138Z",
+    "last_updated": "2026-08-29T05:03:42.574Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of extensions, python packages, machine learning and collaborative notebooks ready to run in Deepnote.",
+      "homepage": "https://ramene.github.io/awesome-deepnote/",
       "id": 302747117,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-15T04:15:50Z",
+      "open_issues": 0,
       "owner": "ramene",
       "repo": "awesome-deepnote",
-      "stars": 59
+      "stars": 59,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "collections",
+        "data-visualization",
+        "datascience",
+        "deep-learning",
+        "deep-neural-networks",
+        "deepnote",
+        "gans",
+        "hashicorp",
+        "hashicorp-waypoint",
+        "lists",
+        "notebooks",
+        "python",
+        "scikit-learn",
+        "visualizations"
+      ]
     },
     "original_repository_sha": "c70295bbc4ce032cac72651b6f4083f341250a4c",
     "enhanced_repository": "enhansome/enhansome-deepnote",
