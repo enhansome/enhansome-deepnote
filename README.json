@@ -201,7 +201,7 @@
                 "open_issues": 203,
                 "owner": "CamDavidsonPilon",
                 "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-                "stars": 28174,
+                "stars": 28175,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -362,11 +362,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-25T04:08:40Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-01T08:48:12Z",
+            "open_issues": 16,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 317277,
+            "stars": 317509,
             "topics": [
               "awesome",
               "awesome-list",
@@ -390,11 +390,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-30T18:10:56Z",
+            "last_commit": "2026-08-31T21:34:01Z",
             "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78743,
+            "stars": 78754,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -420,7 +420,7 @@
             "open_issues": 30,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74224,
+            "stars": 74232,
             "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
@@ -438,10 +438,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-08-27T15:40:38Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29904,
+            "stars": 29910,
             "topics": [
               "analytics",
               "awesome-list",
@@ -473,7 +473,7 @@
             "open_issues": 32,
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28864,
+            "stars": 28862,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -496,11 +496,11 @@
             "id": 83516498,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-08-28T01:30:25Z",
+            "last_commit": "2026-09-01T00:23:15Z",
             "open_issues": 29,
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24406,
+            "stars": 24407,
             "topics": [
               "demonstrate-skills",
               "practice",
@@ -527,7 +527,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17550,
+            "stars": 17549,
             "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
@@ -548,7 +548,7 @@
             "open_issues": 102,
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14132,
+            "stars": 14133,
             "topics": [
               "aws",
               "aws-cli",
@@ -714,7 +714,7 @@
             "open_issues": 39,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4402,
+            "stars": 4404,
             "topics": [
               "awesome-list",
               "chart",
@@ -784,7 +784,7 @@
             "open_issues": 2,
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
-            "stars": 1827,
+            "stars": 1828,
             "topics": [
               "churn",
               "classification",
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:57:33.975Z",
+    "last_updated": "2026-09-01T09:28:33.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of extensions, python packages, machine learning and collaborative notebooks ready to run in Deepnote.",
