@@ -160,7 +160,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29339,
+                "stars": 29340,
                 "topics": [
                   "aws",
                   "big-data",
@@ -363,10 +363,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 318623,
+            "stars": 318957,
             "topics": [
               "awesome",
               "awesome-list",
@@ -394,7 +394,7 @@
             "open_issues": 158,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78824,
+            "stars": 78834,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -417,10 +417,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T19:29:21Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74265,
+            "stars": 74276,
             "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
@@ -437,11 +437,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-04T18:10:15Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-06T22:10:03Z",
+            "open_issues": 5,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29937,
+            "stars": 29941,
             "topics": [
               "analytics",
               "awesome-list",
@@ -473,7 +473,7 @@
             "open_issues": 32,
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28868,
+            "stars": 28869,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -500,7 +500,7 @@
             "open_issues": 29,
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24407,
+            "stars": 24408,
             "topics": [
               "demonstrate-skills",
               "practice",
@@ -527,7 +527,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17548,
+            "stars": 17550,
             "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
@@ -548,7 +548,7 @@
             "open_issues": 103,
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14137,
+            "stars": 14139,
             "topics": [
               "aws",
               "aws-cli",
@@ -590,7 +590,7 @@
             "open_issues": 25,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11458,
+            "stars": 11461,
             "topics": [
               "awesome",
               "awesome-list",
@@ -714,7 +714,7 @@
             "open_issues": 39,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4407,
+            "stars": 4408,
             "topics": [
               "awesome-list",
               "chart",
@@ -784,7 +784,7 @@
             "open_issues": 2,
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
-            "stars": 1829,
+            "stars": 1830,
             "topics": [
               "churn",
               "classification",
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:43:23.334Z",
+    "last_updated": "2026-09-07T09:27:34.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of extensions, python packages, machine learning and collaborative notebooks ready to run in Deepnote.",
