@@ -160,7 +160,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29353,
+                "stars": 29354,
                 "topics": [
                   "aws",
                   "big-data",
@@ -363,10 +363,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-20T15:48:45Z",
-            "open_issues": 19,
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 322023,
+            "stars": 322229,
             "topics": [
               "awesome",
               "awesome-list",
@@ -390,11 +390,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-18T21:12:31Z",
+            "last_commit": "2026-09-21T15:05:16Z",
             "open_issues": 160,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79073,
+            "stars": 79096,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -416,11 +416,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T10:19:48Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-21T13:54:11Z",
+            "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74382,
+            "stars": 74398,
             "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
@@ -437,11 +437,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-09T16:27:56Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-21T18:26:42Z",
+            "open_issues": 6,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30038,
+            "stars": 30047,
             "topics": [
               "analytics",
               "awesome-list",
@@ -470,10 +470,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2024-06-11T04:49:29Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28869,
+            "stars": 28866,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -500,7 +500,7 @@
             "open_issues": 29,
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24413,
+            "stars": 24410,
             "topics": [
               "demonstrate-skills",
               "practice",
@@ -548,7 +548,7 @@
             "open_issues": 103,
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14146,
+            "stars": 14149,
             "topics": [
               "aws",
               "aws-cli",
@@ -587,10 +587,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-23T20:19:22Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11503,
+            "stars": 11504,
             "topics": [
               "awesome",
               "awesome-list",
@@ -643,7 +643,7 @@
             "open_issues": 29,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6512,
+            "stars": 6514,
             "topics": [
               "awesome",
               "awesome-list",
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T10:02:43.231Z",
+    "last_updated": "2026-09-22T09:21:53.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of extensions, python packages, machine learning and collaborative notebooks ready to run in Deepnote.",
