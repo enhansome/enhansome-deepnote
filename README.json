@@ -160,7 +160,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29360,
+                "stars": 29359,
                 "topics": [
                   "aws",
                   "big-data",
@@ -353,7 +353,7 @@
         {
           "node_type": "item",
           "title": "awesome-python",
-          "description": null,
+          "description": "vinta/awesome-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -362,11 +362,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T09:14:10Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-02T12:01:28Z",
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324609,
+            "stars": 324779,
             "topics": [
               "awesome",
               "awesome-list",
@@ -381,7 +381,7 @@
         {
           "node_type": "item",
           "title": "awesome-public-datasets",
-          "description": null,
+          "description": "awesomedata/awesome-public-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -390,11 +390,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-01T20:21:37Z",
+            "last_commit": "2026-10-02T19:47:28Z",
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79276,
+            "stars": 79277,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -407,7 +407,7 @@
         {
           "node_type": "item",
           "title": "awesome-machine-learning",
-          "description": null,
+          "description": "josephmisiti/awesome-machine-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -420,7 +420,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74507,
+            "stars": 74511,
             "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
@@ -428,7 +428,7 @@
         {
           "node_type": "item",
           "title": "awesome-datascience",
-          "description": null,
+          "description": "academic/awesome-datascience",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -437,11 +437,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-02T08:16:33Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-02T20:20:58Z",
+            "open_issues": 11,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30100,
+            "stars": 30103,
             "topics": [
               "analytics",
               "awesome-list",
@@ -460,7 +460,7 @@
         {
           "node_type": "item",
           "title": "machine-learning-for-software-engineers",
-          "description": null,
+          "description": "ZuzooVn/machine-learning-for-software-engineers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -487,7 +487,7 @@
         {
           "node_type": "item",
           "title": "pytudes",
-          "description": null,
+          "description": "norvig/pytudes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -496,11 +496,11 @@
             "id": 83516498,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-01T03:41:55Z",
+            "last_commit": "2026-10-02T20:10:49Z",
             "open_issues": 29,
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24408,
+            "stars": 24407,
             "topics": [
               "demonstrate-skills",
               "practice",
@@ -514,7 +514,7 @@
         {
           "node_type": "item",
           "title": "awesome-tensorflow",
-          "description": null,
+          "description": "jtoy/awesome-tensorflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -535,7 +535,7 @@
         {
           "node_type": "item",
           "title": "awesome-aws",
-          "description": null,
+          "description": "donnemartin/awesome-aws",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -577,7 +577,7 @@
         {
           "node_type": "item",
           "title": "lists",
-          "description": null,
+          "description": "jnv/lists",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -604,7 +604,7 @@
         {
           "node_type": "item",
           "title": "awesome-machine-learning-on-source-code",
-          "description": null,
+          "description": "src-d/awesome-machine-learning-on-source-code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -617,7 +617,7 @@
             "open_issues": 8,
             "owner": "src-d",
             "repo": "awesome-machine-learning-on-source-code",
-            "stars": 6643,
+            "stars": 6644,
             "topics": [
               "awesome",
               "awesome-list",
@@ -630,7 +630,7 @@
         {
           "node_type": "item",
           "title": "awesome-r",
-          "description": null,
+          "description": "qinwf/awesome-R",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -643,7 +643,7 @@
             "open_issues": 28,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6515,
+            "stars": 6516,
             "topics": [
               "awesome",
               "awesome-list",
@@ -659,7 +659,7 @@
         {
           "node_type": "item",
           "title": "awesome-graph-classification",
-          "description": null,
+          "description": "benedekrozemberczki/awesome-graph-classification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -701,7 +701,7 @@
         {
           "node_type": "item",
           "title": "awesome-dataviz",
-          "description": null,
+          "description": "hal9ai/awesome-dataviz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -729,7 +729,7 @@
         {
           "node_type": "item",
           "title": "awesome-decision-tree-papers",
-          "description": null,
+          "description": "benedekrozemberczki/awesome-decision-tree-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -771,7 +771,7 @@
         {
           "node_type": "item",
           "title": "awesome-fraud-detection-papers",
-          "description": null,
+          "description": "benedekrozemberczki/awesome-fraud-detection-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -813,7 +813,7 @@
         {
           "node_type": "item",
           "title": "awesome-datascience-ideas",
-          "description": null,
+          "description": "JosPolfliet/awesome-ai-usecases",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:34:42.483Z",
+    "last_updated": "2026-10-03T04:42:20.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of extensions, python packages, machine learning and collaborative notebooks ready to run in Deepnote.",
