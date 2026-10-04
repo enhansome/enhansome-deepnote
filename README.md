@@ -51,19 +51,19 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 
 ## Other Awesome Lists
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,818 | 🐛 21 | 🌐 Python | 📅 2026-10-02
-* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,281 | 🐛 161 | 📅 2026-10-02
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,514 | 🐛 22 | 🌐 Python | 📅 2026-09-30
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,104 | 🐛 12 | 📅 2026-10-02
-* [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,868 | 🐛 34 | 📅 2024-06-11
-* [pytudes](https://github.com/norvig/pytudes) ⭐ 24,408 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-02
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,046 | 🐛 22 | 🌐 Python | 📅 2026-10-02
+* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,308 | 🐛 161 | 📅 2026-10-02
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,518 | 🐛 22 | 🌐 Python | 📅 2026-09-30
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,106 | 🐛 13 | 📅 2026-10-02
+* [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,871 | 🐛 34 | 📅 2024-06-11
+* [pytudes](https://github.com/norvig/pytudes) ⭐ 24,409 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-02
 * [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,535 | 🐛 34 | 📅 2026-02-08
-* [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,165 | 🐛 104 | 🌐 Python | 📅 2024-03-12
-* [lists](https://github.com/jnv/lists) ⭐ 11,521 | 🐛 32 | 📅 2026-03-23
-* [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) ⭐ 6,644 | 🐛 8 | 📅 2020-12-03
-* [awesome-r](https://github.com/qinwf/awesome-R) ⭐ 6,516 | 🐛 28 | 🌐 R | 📅 2025-09-18
+* [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,167 | 🐛 104 | 🌐 Python | 📅 2024-03-12
+* [lists](https://github.com/jnv/lists) ⭐ 11,524 | 🐛 32 | 📅 2026-03-23
+* [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) ⭐ 6,645 | 🐛 8 | 📅 2020-12-03
+* [awesome-r](https://github.com/qinwf/awesome-R) ⭐ 6,515 | 🐛 28 | 🌐 R | 📅 2025-09-18
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,802 | 🐛 0 | 🌐 Python | 📅 2023-03-18
-* [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,419 | 🐛 46 | 📅 2024-01-26
+* [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,421 | 🐛 10 | 📅 2026-10-04
 * [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) ⭐ 2,476 | 🐛 3 | 🌐 Python | 📅 2025-12-28
 * [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) ⭐ 1,836 | 🐛 2 | 🌐 Python | 📅 2026-01-05
 * [awesome-datascience-ideas](https://github.com/JosPolfliet/awesome-datascience-ideas) ⚠️ Archived
@@ -96,4 +96,4 @@ NzA2NV19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
