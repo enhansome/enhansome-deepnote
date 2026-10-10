@@ -160,7 +160,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29360,
+                "stars": 29358,
                 "topics": [
                   "aws",
                   "big-data",
@@ -201,7 +201,7 @@
                 "open_issues": 204,
                 "owner": "CamDavidsonPilon",
                 "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-                "stars": 28180,
+                "stars": 28182,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -362,11 +362,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T11:02:54Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-09T17:02:45Z",
+            "open_issues": 24,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 326018,
+            "stars": 326256,
             "topics": [
               "awesome",
               "awesome-list",
@@ -390,11 +390,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-08T15:37:23Z",
+            "last_commit": "2026-10-09T20:09:46Z",
             "open_issues": 163,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79390,
+            "stars": 79411,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -416,11 +416,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T21:59:25Z",
+            "last_commit": "2026-10-09T23:52:52Z",
             "open_issues": 23,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74553,
+            "stars": 74564,
             "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
@@ -437,11 +437,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-02T20:20:58Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-09T16:18:23Z",
+            "open_issues": 14,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30126,
+            "stars": 30128,
             "topics": [
               "analytics",
               "awesome-list",
@@ -473,7 +473,7 @@
             "open_issues": 34,
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28872,
+            "stars": 28873,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -500,7 +500,7 @@
             "open_issues": 29,
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24416,
+            "stars": 24415,
             "topics": [
               "demonstrate-skills",
               "practice",
@@ -548,7 +548,7 @@
             "open_issues": 104,
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14168,
+            "stars": 14169,
             "topics": [
               "aws",
               "aws-cli",
@@ -587,10 +587,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-23T20:19:22Z",
-            "open_issues": 33,
+            "open_issues": 32,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11540,
+            "stars": 11544,
             "topics": [
               "awesome",
               "awesome-list",
@@ -617,7 +617,7 @@
             "open_issues": 8,
             "owner": "src-d",
             "repo": "awesome-machine-learning-on-source-code",
-            "stars": 6651,
+            "stars": 6649,
             "topics": [
               "awesome",
               "awesome-list",
@@ -643,7 +643,7 @@
             "open_issues": 28,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6514,
+            "stars": 6515,
             "topics": [
               "awesome",
               "awesome-list",
@@ -672,7 +672,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4802,
+            "stars": 4804,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -714,7 +714,7 @@
             "open_issues": 0,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4426,
+            "stars": 4428,
             "topics": [
               "awesome-list",
               "chart",
@@ -742,7 +742,7 @@
             "open_issues": 3,
             "owner": "benedekrozemberczki",
             "repo": "awesome-decision-tree-papers",
-            "stars": 2475,
+            "stars": 2476,
             "topics": [
               "cart",
               "catboost",
@@ -784,7 +784,7 @@
             "open_issues": 2,
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
-            "stars": 1836,
+            "stars": 1837,
             "topics": [
               "churn",
               "classification",
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:23:42.871Z",
+    "last_updated": "2026-10-10T10:41:12.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of extensions, python packages, machine learning and collaborative notebooks ready to run in Deepnote.",
