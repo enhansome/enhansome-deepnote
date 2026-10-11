@@ -160,7 +160,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29358,
+                "stars": 29360,
                 "topics": [
                   "aws",
                   "big-data",
@@ -312,7 +312,7 @@
             "open_issues": 64,
             "owner": "abhishekkrthakur",
             "repo": "colabcode",
-            "stars": 2159,
+            "stars": 2158,
             "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
@@ -362,11 +362,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T17:02:45Z",
+            "last_commit": "2026-10-11T03:35:50Z",
             "open_issues": 24,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 326256,
+            "stars": 326498,
             "topics": [
               "awesome",
               "awesome-list",
@@ -394,7 +394,7 @@
             "open_issues": 163,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79411,
+            "stars": 79423,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -420,7 +420,7 @@
             "open_issues": 23,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74564,
+            "stars": 74570,
             "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
@@ -441,7 +441,7 @@
             "open_issues": 14,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30128,
+            "stars": 30132,
             "topics": [
               "analytics",
               "awesome-list",
@@ -473,7 +473,7 @@
             "open_issues": 34,
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28873,
+            "stars": 28871,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -548,7 +548,7 @@
             "open_issues": 104,
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14169,
+            "stars": 14170,
             "topics": [
               "aws",
               "aws-cli",
@@ -590,7 +590,7 @@
             "open_issues": 32,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11544,
+            "stars": 11546,
             "topics": [
               "awesome",
               "awesome-list",
@@ -714,7 +714,7 @@
             "open_issues": 0,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4428,
+            "stars": 4429,
             "topics": [
               "awesome-list",
               "chart",
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:41:12.327Z",
+    "last_updated": "2026-10-11T10:53:43.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of extensions, python packages, machine learning and collaborative notebooks ready to run in Deepnote.",
