@@ -21,7 +21,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 
 #### *scikit-learn, tensorflow, keras*
 
-* [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science\&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)   [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course) ⭐ 1,906 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2023-05-23
+* [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science\&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)   [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course) ⭐ 1,907 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2023-05-23
 * [ <sub><sub><img height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote\&url=https%3A%2F%2Fgithub.com%2Falfarias%2Fcustomer-churn-prediction%2Fblob%2Fmaster%2Fnotebooks%2Fcustomer-churn-prediction.ipynb%29)  [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-04-01
 * [ <sub><sub><img height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote\&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud) ⭐ 1 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-05-21
 * [ <sub><sub><img height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg" alt="Peter Norvig"></sub></sub>](https://deepnote.com/launch?template=data-science\&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)  [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
@@ -51,19 +51,19 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 
 ## Other Awesome Lists
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 331,291 | 🐛 22 | 🌐 Python | 📅 2026-10-29
-* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,852 | 🐛 166 | 📅 2026-10-28
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,690 | 🐛 31 | 🌐 Python | 📅 2026-10-27
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,249 | 🐛 9 | 📅 2026-10-27
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 331,485 | 🐛 23 | 🌐 Python | 📅 2026-10-29
+* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,870 | 🐛 167 | 📅 2026-10-28
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,696 | 🐛 31 | 🌐 Python | 📅 2026-10-27
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,254 | 🐛 9 | 📅 2026-10-27
 * [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,879 | 🐛 34 | 📅 2024-06-11
-* [pytudes](https://github.com/norvig/pytudes) ⭐ 24,415 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-28
-* [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,533 | 🐛 34 | 📅 2026-02-08
-* [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,189 | 🐛 106 | 🌐 Python | 📅 2024-03-12
-* [lists](https://github.com/jnv/lists) ⭐ 11,612 | 🐛 4 | 📅 2026-10-29
+* [pytudes](https://github.com/norvig/pytudes) ⭐ 24,416 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-28
+* [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,534 | 🐛 34 | 📅 2026-02-08
+* [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,190 | 🐛 106 | 🌐 Python | 📅 2024-03-12
+* [lists](https://github.com/jnv/lists) ⭐ 11,617 | 🐛 0 | 📅 2026-10-30
 * [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) ⭐ 6,663 | 🐛 8 | 📅 2020-12-03
-* [awesome-r](https://github.com/qinwf/awesome-R) ⭐ 6,536 | 🐛 30 | 🌐 R | 📅 2025-09-18
+* [awesome-r](https://github.com/qinwf/awesome-R) ⭐ 6,537 | 🐛 30 | 🌐 R | 📅 2025-09-18
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,806 | 🐛 0 | 🌐 Python | 📅 2023-03-18
-* [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,444 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-27
+* [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,445 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-27
 * [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) ⭐ 2,479 | 🐛 3 | 🌐 Python | 📅 2025-12-28
 * [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) ⭐ 1,841 | 🐛 2 | 🌐 Python | 📅 2026-01-05
 * [awesome-datascience-ideas](https://github.com/JosPolfliet/awesome-datascience-ideas) ⚠️ Archived
@@ -96,4 +96,4 @@ NzA2NV19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
