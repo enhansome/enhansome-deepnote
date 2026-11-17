@@ -51,15 +51,15 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 
 ## Other Awesome Lists
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,139 | 🐛 26 | 🌐 Python | 📅 2026-11-16
-* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 80,163 | 🐛 170 | 📅 2026-11-15
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,839 | 🐛 34 | 🌐 Python | 📅 2026-11-12
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,336 | 🐛 1 | 📅 2026-11-16
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,370 | 🐛 19 | 🌐 Python | 📅 2026-11-17
+* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 80,179 | 🐛 170 | 📅 2026-11-16
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,844 | 🐛 35 | 🌐 Python | 📅 2026-11-12
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,340 | 🐛 1 | 📅 2026-11-17
 * [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,880 | 🐛 33 | 📅 2024-06-11
-* [pytudes](https://github.com/norvig/pytudes) ⭐ 24,426 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-11-06
+* [pytudes](https://github.com/norvig/pytudes) ⭐ 24,427 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-11-06
 * [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,535 | 🐛 34 | 📅 2026-02-08
-* [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,198 | 🐛 109 | 🌐 Python | 📅 2024-03-12
-* [lists](https://github.com/jnv/lists) ⭐ 11,664 | 🐛 5 | 📅 2026-11-05
+* [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,200 | 🐛 109 | 🌐 Python | 📅 2024-03-12
+* [lists](https://github.com/jnv/lists) ⭐ 11,666 | 🐛 7 | 📅 2026-11-05
 * [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) ⭐ 6,678 | 🐛 8 | 📅 2020-12-03
 * [awesome-r](https://github.com/qinwf/awesome-R) ⭐ 6,547 | 🐛 30 | 🌐 R | 📅 2025-09-18
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,805 | 🐛 0 | 🌐 Python | 📅 2023-03-18
@@ -96,4 +96,4 @@ NzA2NV19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
