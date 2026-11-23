@@ -51,17 +51,17 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 
 ## Other Awesome Lists
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 336,380 | 🐛 22 | 🌐 Python | 📅 2026-11-17
-* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 80,243 | 🐛 171 | 📅 2026-11-22
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,879 | 🐛 37 | 🌐 Python | 📅 2026-11-21
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,356 | 🐛 1 | 📅 2026-11-20
-* [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,880 | 🐛 33 | 📅 2024-06-11
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 336,618 | 🐛 23 | 🌐 Python | 📅 2026-11-17
+* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 80,247 | 🐛 171 | 📅 2026-11-22
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,893 | 🐛 40 | 🌐 Python | 📅 2026-11-21
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,361 | 🐛 1 | 📅 2026-11-20
+* [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,882 | 🐛 33 | 📅 2024-06-11
 * [pytudes](https://github.com/norvig/pytudes) ⭐ 24,430 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-11-20
 * [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,539 | 🐛 34 | 📅 2026-02-08
-* [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,202 | 🐛 110 | 🌐 Python | 📅 2024-03-12
-* [lists](https://github.com/jnv/lists) ⭐ 11,674 | 🐛 8 | 📅 2026-11-05
-* [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) ⭐ 6,679 | 🐛 8 | 📅 2020-12-03
-* [awesome-r](https://github.com/qinwf/awesome-R) ⭐ 6,547 | 🐛 30 | 🌐 R | 📅 2025-09-18
+* [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,201 | 🐛 109 | 🌐 Python | 📅 2024-03-12
+* [lists](https://github.com/jnv/lists) ⭐ 11,678 | 🐛 9 | 📅 2026-11-05
+* [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) ⭐ 6,680 | 🐛 8 | 📅 2020-12-03
+* [awesome-r](https://github.com/qinwf/awesome-R) ⭐ 6,548 | 🐛 29 | 🌐 R | 📅 2025-09-18
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,805 | 🐛 0 | 🌐 Python | 📅 2023-03-18
 * [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,465 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-11
 * [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) ⭐ 2,481 | 🐛 4 | 🌐 Python | 📅 2025-12-28
@@ -96,4 +96,4 @@ NzA2NV19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._

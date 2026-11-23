@@ -363,10 +363,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-17T10:02:01Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 336380,
+            "stars": 336618,
             "topics": [
               "awesome",
               "awesome-list",
@@ -390,11 +390,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-22T00:43:58Z",
+            "last_commit": "2026-11-22T17:14:18Z",
             "open_issues": 171,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 80243,
+            "stars": 80247,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -417,10 +417,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-21T15:46:05Z",
-            "open_issues": 37,
+            "open_issues": 40,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74879,
+            "stars": 74893,
             "topics": []
           },
           "first_seen": "2026-08-28T16:43:06.138Z"
@@ -441,7 +441,7 @@
             "open_issues": 1,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30356,
+            "stars": 30361,
             "topics": [
               "analytics",
               "awesome-list",
@@ -473,7 +473,7 @@
             "open_issues": 33,
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28880,
+            "stars": 28882,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -545,10 +545,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-03-12T09:29:54Z",
-            "open_issues": 110,
+            "open_issues": 109,
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14202,
+            "stars": 14201,
             "topics": [
               "aws",
               "aws-cli",
@@ -587,10 +587,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-05T23:20:38Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11674,
+            "stars": 11678,
             "topics": [
               "awesome",
               "awesome-list",
@@ -617,7 +617,7 @@
             "open_issues": 8,
             "owner": "src-d",
             "repo": "awesome-machine-learning-on-source-code",
-            "stars": 6679,
+            "stars": 6680,
             "topics": [
               "awesome",
               "awesome-list",
@@ -640,10 +640,10 @@
             "language": "R",
             "license": null,
             "last_commit": "2025-09-18T16:46:19Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6547,
+            "stars": 6548,
             "topics": [
               "awesome",
               "awesome-list",
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T12:41:39.223Z",
+    "last_updated": "2026-11-23T14:55:43.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of extensions, python packages, machine learning and collaborative notebooks ready to run in Deepnote.",
